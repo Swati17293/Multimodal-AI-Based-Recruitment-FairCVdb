@@ -10,12 +10,12 @@ The scripts follow the experimental setup and hyperparameters defined in the Fai
 [1] A. Peña, I. Serna, A. Morales, J. Fierrez, A. Ortega, A. Herrarte and M. Alcantara, “Human-Centric Multimodal Machine Learning: Recent Advances and Testbed on AI-based Recruitment”, in Springer Nature Computer Science, Vol. 4, n. 434, 2023.
 
 ### Cite As
-```
+<code>
 @inproceedings{swati_swati17293,
   author       = {Swati and Arjun Roy and Eirini Ntoutsi},
-  title        = {```Exploring Fusion Techniques in Multimodal AI-Based Recruitment: Insights from FairCVdb```},
-  booktitle    = {```Proceedings of the 2nd European Workshop on Algorithmic Fairness (EWAF’24)```},
+  title        = {Exploring Fusion Techniques in Multimodal AI-Based Recruitment: Insights from FairCVdb},
+  booktitle    = {Proceedings of the 2nd European Workshop on Algorithmic Fairness (EWAF’24)},
   month        = {July},
   year         = {2024}
 }
-```
+</code>code
