@@ -3,7 +3,7 @@
 
 The increasing use of decision-making algorithms has led to concerns about transparency and potential discrimination, especially when impacting specific social groups. Investigating how sensitive elements and internal biases influence current multimodal algorithms is crucial. We investigate the fairness and bias implications of multimodal AI-based recruitment systems using the FairCVdb dataset. We evaluate the effectiveness of early and late fusion techniques in a variety of settings, including unbiased ideal conditions and biased real-world scenarios with multimodal biases. Our findings suggest that while late fusion performs well under unbiased conditions, it may exacerbate biases in real-world scenarios. Early fusion, on the other hand, generally produces more equitable results, especially when modality selection is carefully considered. Future research could explore alternative fusion strategies and incorporate addi- tional fairness constraints to improve fairness in algorithmic decision-making.
 
-You can donwload the FairCVdb from [link](https://github.com/BiDAlab/FairCVtest/blob/master/data/FairCVdb.npy).
+Donwload the FairCVdb from [link](https://github.com/BiDAlab/FairCVtest/blob/master/data/FairCVdb.npy).
 The scripts follow the experimental setup and hyperparameters defined in the FairCVtest testbed, available at [link](https://github.com/BiDAlab/FairCVtest/).
 
 ### References
