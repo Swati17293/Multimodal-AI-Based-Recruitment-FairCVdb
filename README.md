@@ -6,7 +6,7 @@ The increasing use of decision-making algorithms has led to concerns about trans
 <b>For further Information visit</b>: [https://swati17293.github.io/bias-in-fusion-EWAF24/](https://swati17293.github.io/bias-in-fusion-EWAF24/)
 
 <div align="center">
-	<img src="https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Abstract.png" data-canonical-src="https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Abstract.png" height="300"/>
+	<img src="https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Abstract.png" data-canonical-src="https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Abstract-EWAF.png" height="300"/>
 </div>
 
 Donwload the FairCVdb from [link](https://github.com/BiDAlab/FairCVtest/blob/master/data/FairCVdb.npy).
