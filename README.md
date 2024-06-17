@@ -3,7 +3,7 @@
 
 Despite the large body of work on fairness-aware learning for individual modalities like tabular data, images, and text, less work has been done on multimodal data, which fuses various modalities for a comprehensive analysis. In this work, we investigate the fairness and bias implications of multimodal fusion techniques in the context of multimodal AI-based recruitment systems using the FairCVdb dataset. Our results show that <i>early-fusion</i> closely matches the ground truth for both demographics, achieving the lowest MAEs by integrating each modality's unique characteristics. In contrast, <i>late-fusion</i> leads to highly generalized mean scores and higher MAEs. Our findings emphasise the significant potential of <i>early-fusion</i> for accurate and fair applications, even in the presence of demographic biases, compared to <i>late-fusion</i>. Future research could explore alternative fusion strategies and incorporate modality-related fairness constraints to improve fairness.
 
-<b>For further Information visit</b>: [https://swati17293.github.io/bias-in-fusion-EWAF24/](https://swati17293.github.io/bias-in-fusion-EWAF24/)
+<b>For additional insights, visit</b>: [https://swati17293.github.io/bias-in-fusion-EWAF24/](https://swati17293.github.io/bias-in-fusion-EWAF24/)
 
 <div align="center">
 	<img src="https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Abstract-EWAF.png" data-canonical-src="https://github.com/Swati17293/Multimodal-AI-Based-Recruitment-FairCVdb/blob/main/Abstract-EWAF.png" height="350"/>
