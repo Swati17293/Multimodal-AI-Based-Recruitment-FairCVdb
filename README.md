@@ -25,3 +25,8 @@ The scripts follow the experimental setup and hyperparameters defined in the Fai
   year         = {2024}
 }
 ```
+
+### License
+
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
